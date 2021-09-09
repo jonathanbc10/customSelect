@@ -1,0 +1,19 @@
+{
+  "name": "customselect",
+  "version": "1.0.0",
+  "description": "Practice for portfolio",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathanbc10/customSelect.git"
+  },
+  "author": "Jonathan B.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonathanbc10/customSelect/issues"
+  },
+  "homepage": "https://github.com/jonathanbc10/customSelect#readme"
+}
